@@ -1,9 +1,10 @@
-{"Version":"2.3","Url":"https://github.com/Bankzza555666/Update/blob/main/es.zip?raw=true","Text":"ประกาศๆๆ!!
+{"Version":"2.4","Url":"https://github.com/Bankzza555666/Update/blob/main/es.zip?raw=true","Text":"ประกาศๆๆ!!
 ⚠️เนื่องจากแอพ ESPORT VPN ถูก GOOGLE นำออกไป
 ⚠️ขอให้สมาชิคทุกท่าน โหลดแอพตัวใหม่มาใช้นะครับ
 ⚠️เพราะแอพนี้กำลังจะหยุดพัฒนา
+⚠️แอพจะใช้ไม่ได้ในวันที่ 25/06/65
 
-⚠️แอพชื่อ SIMTHAI VPN 
+⚠️แอพใหม่ชื่อ SIMTHAI VPN 
 ⚠️โดยกดที่ปุ่ม สร้างVIP มุมล่างขวาแล้วกดโหลดแอพ
 
 ⚠️ขอบคุณที่อยู่ด้วยกันอย่างยาวนาน "}
