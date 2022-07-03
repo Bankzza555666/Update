@@ -1,4 +1,4 @@
-{"Version":"2.4","Url":"https://github.com/Bankzza555666/Update/blob/main/es.zip?raw=true","Text":"ประกาศๆๆ!!
+{"Version":"2.5","Url":"https://github.com/Bankzza555666/Update/blob/main/es.zip?raw=true","Text":"ประกาศๆๆ!!
 ⚠️เนื่องจากแอพ ESPORT VPN ถูก GOOGLE นำออกไป
 ⚠️ขอให้สมาชิคทุกท่าน โหลดแอพตัวใหม่มาใช้นะครับ
 ⚠️เพราะแอพนี้กำลังจะหยุดพัฒนา
